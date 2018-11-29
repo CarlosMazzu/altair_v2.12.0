@@ -1,3 +1,7 @@
+<p>
+  Altair is a professional HTML5/CSS3 Material Design template based on UIkit Framework and jQuery Library. This template has been built   with Bower (package manager), Gulp (streaming build tool) and Handlebars.js (templating system).
+</p>  
+
 <h5>Features</h5>
                             <ul>
                                 <li>Material Design</li>
